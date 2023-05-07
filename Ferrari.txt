@@ -1,220 +1,910 @@
-<div><div><span></span><div><div class="CoverCarousel__container__2vdS4uUu undefined theme-ferrari-dark" data-pagesection="carousel" data-gtm-vis-first-on-screen-1897175_1797="615" data-gtm-vis-recent-on-screen-1897175_1797="571232" data-gtm-vis-total-visible-time-1897175_1797="1000" data-gtm-vis-has-fired-1897175_1797="1"><div class="Carousel__container__6clwioBJ Carousel__container--has-scrollpointer__2yING0tG"><div class="swiper-container Carousel__timed__10muD7II swiper-initialized swiper-horizontal swiper-backface-hidden" aria-label="carousel"><div class="swiper-wrapper" id="swiper-wrapper-8c40333ce98ae295" aria-live="off" style="transform: translate3d(-859px, 0px, 0px); transition-duration: 0ms;"><div class="swiper-slide swiper-slide-prev" style="width: 859px;" role="group" aria-label="1 / 3"><span></span><div><div><div class="Cover__wrapper__2QIj7Vhy theme-ferrari-dark Cover__wrapper--has-scrollpointer__2lCSfPAl"><div class="Cover__bg__229t47d6" style="opacity: 0;"><div class="BackgroundVideo__background__HiFeiReo"><div class="VideoThron__wrapper__MQCgO8QA th-player th-reset th-no-skin th-skin-s2MWml th-video th-user-inactive th-media-paused" id="bgvideo_0724fe07-8567-4838-b5a2-7eeb66ddfe50"><div class="th-main-container share-ferrari-skin-w-960">
-  <div class="th-media-container th-media-bg-color"><div class="th-video-player" itemscope="" itemtype="http://schema.org/VideoObject"><meta itemprop="name" content="SITO-Video_Cover_Gen_2023_1920x1080"><meta itemprop="description" content=""><meta itemprop="thumbnailUrl" content="https://ferrari-cdn.thron.com/delivery/public/thumbnail/ferrari/0724fe07-8567-4838-b5a2-7eeb66ddfe50/bocxuw/std/0x0/SITO-Video_Cover_Gen_2023_192?v=119&amp;dpr=200"><meta itemprop="uploadDate" content="2023-01-18T17:12:07.218Z"><meta itemprop="contentURL" content="https://ferrari-cdn.thron.com/delivery/public/video/ferrari/0724fe07-8567-4838-b5a2-7eeb66ddfe50/bocxuw/WEBFULLHD/SITO-Video_Cover_Gen_2023_192">
-    <div id="th-video_0" class="th-video-wrapper"><div class="th-video-inner"><div class="th-video-element"><video src="blob:https://www.ferrari.com/863fb936-2303-4026-93db-8be2c99966bb" muted="muted" preload="metadata" poster="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" loop="loop" autoplay="autoplay" webkit-playsinline="webkit-playsinline" playsinline="playsinline" data-object-fit="cover"></video></div><div class="th-poster-element"><div class="th-video-poster" style="background-image: url(&quot;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=&quot;); display: none;"><img width="100%" height="100%" alt="" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-object-fit="cover"></div></div><div class="th-video-clear"></div></div></div>
-    <div class="th-video-overlays th-overlays-container">
-        <div class="th-loader th-video-overlay th-centered">
-            <img src="data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiIGJhc2VQcm9maWxlPSJmdWxsIiB2aWV3Qm94PSItNDAgLTQwIDU4MCA1ODAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiPjxjaXJjbGUgaWQ9ImdyZXktZGFyay1jaXJjbGUiIGN4PSIyNTAiIGN5PSIyNTAiIHI9IjIyNSIgc3Ryb2tlPSIjODU4Njg4IiBzdHJva2Utd2lkdGg9IjcwIiBmaWxsPSJ0cmFuc3BhcmVudCIgc3Ryb2tlLWRhc2hhcnJheT0iMTQxMy43MiIgc3Ryb2tlLWRhc2hvZmZzZXQ9IjE0MTMuNzIiIHRyYW5zZm9ybT0icm90YXRlKC05MCAyNTAgMjUwKSBzY2FsZSgxLC0xKSB0cmFuc2xhdGUoMCwtNTAwKSIgc2hhcGUtcmVuZGVyaW5nPSJnZW9tZXRyaWNQcmVjaXNpb24iPjwvY2lyY2xlPjxjaXJjbGUgaWQ9ImNvbG9yZWQtY2lyY2xlIiBjeD0iMjUwIiBjeT0iMjUwIiByPSIyMjUiIHN0cm9rZT0iI0U2MUQyNSIgc3Ryb2tlLXdpZHRoPSI3MCIgZmlsbD0idHJhbnNwYXJlbnQiIHN0cm9rZS1kYXNoYXJyYXk9IjE0MTMuNzIiIHN0cm9rZS1kYXNob2Zmc2V0PSIxNDEzLjcyIiB0cmFuc2Zvcm09InJvdGF0ZSgtOTAgMjUwIDI1MCkiIHNoYXBlLXJlbmRlcmluZz0iZ2VvbWV0cmljUHJlY2lzaW9uIj48L2NpcmNsZT48YW5pbWF0ZSB4bGluazpocmVmPSIjZ3JleS1kYXJrLWNpcmNsZSIgYXR0cmlidXRlTmFtZT0ic3Ryb2tlLWRhc2hvZmZzZXQiIGZyb209IjE0MTMuNzIiIHRvPSIwIiBkdXI9IjIuMTJzIiB2YWx1ZXM9IjE0MTMuNzI7IDE0MTMuNzI7IDA7IDAiIGtleVRpbWVzPSIwOyAwLjAyOyAwLjI0OyAxIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIgYmVnaW49IjBzIj48L2FuaW1hdGU+PGFuaW1hdGUgeGxpbms6aHJlZj0iI2NvbG9yZWQtY2lyY2xlIiBhdHRyaWJ1dGVOYW1lPSJzdHJva2UtZGFzaG9mZnNldCIgZnJvbT0iMTQxMy43MiIgdG89IjAiIGR1cj0iMi4xMnMiIHZhbHVlcz0iMTQxMy43MjsgMTQxMy43MjsgMTc2Ljc7IDE3Ni43OyAxNDEzLjcyOyAxNDEzLjcyIiBrZXlUaW1lcz0iMDsgMC4yNDsgMC40NjsgMC41NjsgMC43ODsgMSIgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiIGJlZ2luPSIwcyI+PC9hbmltYXRlPjxhbmltYXRlIHhsaW5rOmhyZWY9IiNncmV5LWRhcmstY2lyY2xlIiBhdHRyaWJ1dGVOYW1lPSJzdHJva2Utb3BhY2l0eSIgZnJvbT0iMTQxMy43MiIgdG89IjAiIGR1cj0iMi4xMnMiIHZhbHVlcz0iMTsgMTsgMDsgMCIga2V5VGltZXM9IjA7IDAuNzg7IDAuODg7IDEiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIiBiZWdpbj0iMHMiPjwvYW5pbWF0ZT48L3N2Zz4=" alt="Video is loading">
-        </div>
-        <div class="th-no-skin th-init-overlay th-video-overlay th-clickable-overlay th-centered">
-            <div style="" class="th-centered th-big-play-btn th-display-icon-wrapper th-button-color  th-button ">
-		<div class="th-big-play-icon th-display-icon th-svg-container">
-			<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 100 100" style="enable-background:new 0 0 100 100;" xml:space="preserve"><circle class="th-svg-bg-color" cx="50" cy="50" r="49.3"></circle><path id="Forma_1" d="M72.8,48L35.5,25.9c-1.1-0.6-2.5-0.2-3.1,0.9c-0.2,0.4-0.3,0.8-0.3,1.2v44.3c0,1.3,1,2.3,2.3,2.4 c0.4,0,0.8-0.1,1.2-0.3l37.4-22.1c1.1-0.7,1.5-2.2,0.8-3.3C73.4,48.5,73.2,48.2,72.8,48z"></path></svg>
-		</div>
+{%- if section.blocks.size > 0 -%}
+
+{%- for block in section.blocks -%}
+
+{%- assign img_url = block.settings.image | img_url: '1x1' | replace: '_1x1.', '_{width}x.' -%}
+
+ 
+
+{% if block.type == 'video' %}
+
+<div class="videoBox" style="{%- if block.settings.video_link == blank -%}background-image: url('{{ block.settings.video_image  | img_url: 'master' }}');{%- endif -%}">
+
+ 
+
+{%- if block.settings.video_link != blank -%}
+
+<div class="fullscreen-video-wrap">
+
+<video class="video-js" loop autoplay preload="none" muted playsinline
+
+poster="https:{{ block.settings.video_image | img_url: 'master' }}">
+
+<source src="{{ block.settings.video_link }}" type="video/mp4">
+
+</video>
+
 </div>
-        </div>
-        <div class="th-no-skin  th-reload-overlay th-video-overlay th-clickable-overlay th-centered">
-            <div style="" class="th-centered th-reload-btn th-display-icon-wrapper th-button-color  th-button ">
-		<div class="th-reload-icon th-display-icon th-svg-container">
-			<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 100 100" style="enable-background:new 0 0 100 100;" xml:space="preserve"><circle class="th-svg-bg-color" cx="50" cy="50" r="49.3"></circle><g><g><path d="M52.3,72.3c9.5-1.1,17-8.6,18.1-18.1c1.4-12.4-8.2-22.9-20.3-23v-5.5c0-0.3-0.4-0.5-0.6-0.3l-11.4,8.4 c-0.2,0.1-0.2,0.4,0,0.6l11.4,8.4c0.3,0.2,0.6,0,0.6-0.3v-5.5c8.5,0.1,15.3,7.3,14.7,16c-0.5,7.4-6.5,13.4-13.9,13.9 c-7.9,0.5-14.5-5.1-15.7-12.5c-0.2-1.4-1.4-2.4-2.8-2.4c-1.7,0-3.1,1.5-2.8,3.2C31.2,65.7,41,73.6,52.3,72.3L52.3,72.3z M52.3,72.3"></path></g></g></svg>
-		</div>
+
+{% endif %}
+
+ 
+
+
+<div class="videoBoxInfo">
+
+{% if block.settings.title != blank %}
+
+<h1 class="videoBoxInfoTitle" style="color: {{ block.settings.color_text }}">
+
+{{ block.settings.title | escape }}
+
+</h1>
+
+{% endif %}
+
+ 
+
+{%- style -%}
+
+.videoBackground .imageBoxInfoDescription p {
+
+color: {{ block.settings.color_text }}!important;
+
+}
+
+{%- endstyle -%}
+
+ 
+
+{% if block.settings.text != blank %}
+
+<div class="imageBoxInfoDescription" id="{{ block.id }}" style="color: {{ block.settings.color_text }}">
+
+{{ block.settings.text }}
+
 </div>
-        </div>
-        <div class="th-play-overlay th-video-overlay th-centered">
-            <div class="th-display-icon-wrapper th-button-color th-hover-disabled">
-                <div class="th-display-icon-little">
-                    <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 12.8 15" style="enable-background:new 0 0 12.8 15;" xml:space="preserve"><path d="M0.2,14c0-0.7,0-12.5,0-13c0-0.6,0.6-1.1,1.2-0.7c0.5,0.3,9.9,6,10.8,6.5c0.6,0.3,0.5,1.1,0,1.4 c-0.6,0.4-10.1,6.1-10.8,6.5C0.9,15,0.2,14.7,0.2,14z"></path></svg>
-                </div>
-            </div>
-        </div>
-        <div class="th-pause-overlay th-video-overlay th-centered">
-            <div class="th-display-icon-wrapper th-button-color th-hover-disabled">
-                <div class="th-display-icon-little">
-                    <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 8 11" style="enable-background:new 0 0 8 11;" xml:space="preserve"><path d="M5.2,0v11H8V0H5.2z M0,11h2.8V0H0V11z"></path></svg>
-                </div>
-            </div>
-        </div>
-        <div class="th-subtitle-position th-centered th-hide">
-          <div class="th-subtitles-wrapper th-overlay-bg-color th-text-color">
-            <div class="th-subtitles-text th-display-none" style="display: none;">a</div>
-          </div>
-        </div>
+
+{% endif %}
+
+ 
+
+{% if block.settings.button_link != blank and block.settings.button_label != blank %}
+
+<a href="{{ block.settings.button_link }}" class="videoBoxInfoBtn" style="color: {{ block.settings.color_btn_text }}; background: {{ block.settings.color_btn_bg }}">
+
+{{ block.settings.button_label | escape }}
+
+</a>
+
+{% endif %}
+
+</div>
+
+</div>
+
+{% else %}
+
+<div class="imageBox" style="background-color: {{ block.settings.color_bg }}; {%- if block.settings.image_bg != blank -%}background-image: url('{{ block.settings.image_bg | img_url: 'master' }}');{%- endif -%}">
+
+ 
+
+
+ 
+
+<div class="imageBoxInfo">
+
+{% if block.settings.title != blank %}
+
+<h1 class="imageBoxInfoTitle" style="color: {{ block.settings.color_text }}">
+
+{{ block.settings.title | escape }}
+
+</h1>
+
+{% endif %}
+
+ 
+
+{%- style -%}
+
+.videoBackground .imageBoxInfoDescription p {
+
+color: {{ block.settings.color_text }}!important;
+
+}
+
+{%- endstyle -%}
+
+ 
+
+{% if block.settings.text != blank %}
+
+<div class="imageBoxInfoDescription" id="{{ block.id }}" style="color: {{ block.settings.color_text }}">
+
+{{ block.settings.text }}
+
+</div>
+
+{% endif %}
+
+ 
+
+{% if block.settings.button_link != blank and block.settings.button_label != blank %}
+
+<a href="{{ block.settings.button_link }}" class="imageBoxInfoBtn" style="color: {{ block.settings.color_btn_text }}; background: {{ block.settings.color_btn_bg }}">
+
+{{ block.settings.button_label | escape }}
+
+</a>
+
+{% endif %}
+
+</div>
+
+</div>
+
+{% endif %}
+
+{%- endfor -%}
+
+ 
+
+{% else %}
+
+<div class="placeholderNoblocks">
+
+This section doesn’t currently include any content. Add content to this section using the sidebar.
+
     </div>
-</div></div>
-  <div class="th-overlays th-overlays-container"></div>
-  <div class="th-controls"></div>
-</div>
-<div class="th-bottom-container"></div></div></div></div><div class="Cover__content__2cUrPIni"><h4 class="Cover__uptitle__mcag4koV" style="opacity: 0;">Auto</h4><h1 class="Title__title__Jgw9CDdc null Title__title--h1__1nb9uflG Title__title--uppercase__15xOsAcP" style="visibility: hidden;"><span class=""><span style="opacity: 1; transform: matrix(1, 0, 0, 1, 0, 0);">START&nbsp;</span></span><span class=""><span style="opacity: 1; transform: matrix(1, 0, 0, 1, 0, 0);">YOUR&nbsp;</span></span><span class=""><span style="opacity: 1; transform: matrix(1, 0, 0, 1, 0, 0);">ENGINE</span></span></h1><div class="Cover__link__2sunY9Xb" style="opacity: 0;"><div class="Cover__button-wrap__14haVmlp"><a popups="" href="https://www.ferrari.com/en-EN/auto/car-range?from=GWvideo" url="https://www.ferrari.com/en-EN/auto/car-range?from=GWvideo" target="_self" class="BtnAction__wrapper__2lcvxx01 undefined" data-event-module-slug="cover-carousel-module" data-event-type="CTA" data-event-label="start_your_engine" data-event-target="https://www.ferrari.com/en-EN/auto/car-range?from=GWvideo" data-eventcat="GW_LANCI" data-eventpos="0" data-eventtit="start_your_engine" data-eventlbl="internal" data-gtm-vis-first-on-screen-1897175_1569="493227" data-gtm-vis-total-visible-time-1897175_1569="100" data-gtm-vis-has-fired-1897175_1569="1" tabindex="-1"><span class="BtnAction__text__2vvCUxFa">Discover the Ferrari Line Up</span><span class="BtnAction__icon__3-znqAs5"><span class="Icon__icon__2tdLhZ5T Icon__icon--border__3nsmYcwT Icon__bgtransparent__2DiBPCjn"><span class="Icon__over-circle__1opWzs6L"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="11" stroke="1"></circle></svg></span><svg viewBox="0 0 8 16" class="icon" width="8" height="16" xmlns="http://www.w3.org/2000/svg" style="height: 16px; width: 8px;"><path d="M7.268 9.547L0 16l4-8-4-8 7.268 6.453C7.715 6.82 8 7.377 8 8c0 .623-.285 1.18-.732 1.547z"></path></svg></span></span></a></div></div><div class="Cover__focuson__jrwR2mxx"></div></div></div><div style="display: none;"></div></div></div><span></span></div><div class="swiper-slide swiper-slide-active" style="width: 859px;" role="group" aria-label="2 / 3"><span></span><div><div><div class="Cover__wrapper__2QIj7Vhy theme-ferrari-dark Cover__wrapper--has-scrollpointer__2lCSfPAl"><div class="Cover__bg__229t47d6" style="opacity: 1;"><div class="BackgroundVideo__background__HiFeiReo"><div class="VideoThron__wrapper__MQCgO8QA th-player th-reset th-no-skin th-skin-s2MWml th-video th-user-inactive th-media-paused" id="bgvideo_3d29efde-4a71-4b46-81d2-2e2503f0e1d1"><div class="th-main-container share-ferrari-skin-w-960">
-  <div class="th-media-container th-media-bg-color"><div class="th-video-player" itemscope="" itemtype="http://schema.org/VideoObject"><meta itemprop="name" content="cover_f1-sf23_video_beauty_1920x1080 (1080p)"><meta itemprop="description" content=""><meta itemprop="thumbnailUrl" content="https://ferrari-cdn.thron.com/delivery/public/thumbnail/ferrari/3d29efde-4a71-4b46-81d2-2e2503f0e1d1/bocxuw/std/0x0/cover_f1-sf23_video_beauty_19?v=120&amp;dpr=200"><meta itemprop="uploadDate" content="2023-02-14T07:21:03.246Z"><meta itemprop="contentURL" content="https://ferrari-cdn.thron.com/delivery/public/video/ferrari/3d29efde-4a71-4b46-81d2-2e2503f0e1d1/bocxuw/WEBFULLHD/cover_f1-sf23_video_beauty_19">
-    <div id="th-video_1" class="th-video-wrapper"><div class="th-video-inner"><div class="th-video-element"><video src="blob:https://www.ferrari.com/2a85981c-771d-4d52-85b4-22536e355375" muted="muted" preload="metadata" poster="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" loop="loop" autoplay="autoplay" webkit-playsinline="webkit-playsinline" playsinline="playsinline" data-object-fit="cover"></video></div><div class="th-poster-element"><div class="th-video-poster" style="background-image: url(&quot;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=&quot;); display: none;"><img width="100%" height="100%" alt="" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-object-fit="cover"></div></div><div class="th-video-clear"></div></div></div>
-    <div class="th-video-overlays th-overlays-container">
-        <div class="th-loader th-video-overlay th-centered">
-            <img src="data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiIGJhc2VQcm9maWxlPSJmdWxsIiB2aWV3Qm94PSItNDAgLTQwIDU4MCA1ODAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiPjxjaXJjbGUgaWQ9ImdyZXktZGFyay1jaXJjbGUiIGN4PSIyNTAiIGN5PSIyNTAiIHI9IjIyNSIgc3Ryb2tlPSIjODU4Njg4IiBzdHJva2Utd2lkdGg9IjcwIiBmaWxsPSJ0cmFuc3BhcmVudCIgc3Ryb2tlLWRhc2hhcnJheT0iMTQxMy43MiIgc3Ryb2tlLWRhc2hvZmZzZXQ9IjE0MTMuNzIiIHRyYW5zZm9ybT0icm90YXRlKC05MCAyNTAgMjUwKSBzY2FsZSgxLC0xKSB0cmFuc2xhdGUoMCwtNTAwKSIgc2hhcGUtcmVuZGVyaW5nPSJnZW9tZXRyaWNQcmVjaXNpb24iPjwvY2lyY2xlPjxjaXJjbGUgaWQ9ImNvbG9yZWQtY2lyY2xlIiBjeD0iMjUwIiBjeT0iMjUwIiByPSIyMjUiIHN0cm9rZT0iI0U2MUQyNSIgc3Ryb2tlLXdpZHRoPSI3MCIgZmlsbD0idHJhbnNwYXJlbnQiIHN0cm9rZS1kYXNoYXJyYXk9IjE0MTMuNzIiIHN0cm9rZS1kYXNob2Zmc2V0PSIxNDEzLjcyIiB0cmFuc2Zvcm09InJvdGF0ZSgtOTAgMjUwIDI1MCkiIHNoYXBlLXJlbmRlcmluZz0iZ2VvbWV0cmljUHJlY2lzaW9uIj48L2NpcmNsZT48YW5pbWF0ZSB4bGluazpocmVmPSIjZ3JleS1kYXJrLWNpcmNsZSIgYXR0cmlidXRlTmFtZT0ic3Ryb2tlLWRhc2hvZmZzZXQiIGZyb209IjE0MTMuNzIiIHRvPSIwIiBkdXI9IjIuMTJzIiB2YWx1ZXM9IjE0MTMuNzI7IDE0MTMuNzI7IDA7IDAiIGtleVRpbWVzPSIwOyAwLjAyOyAwLjI0OyAxIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIgYmVnaW49IjBzIj48L2FuaW1hdGU+PGFuaW1hdGUgeGxpbms6aHJlZj0iI2NvbG9yZWQtY2lyY2xlIiBhdHRyaWJ1dGVOYW1lPSJzdHJva2UtZGFzaG9mZnNldCIgZnJvbT0iMTQxMy43MiIgdG89IjAiIGR1cj0iMi4xMnMiIHZhbHVlcz0iMTQxMy43MjsgMTQxMy43MjsgMTc2Ljc7IDE3Ni43OyAxNDEzLjcyOyAxNDEzLjcyIiBrZXlUaW1lcz0iMDsgMC4yNDsgMC40NjsgMC41NjsgMC43ODsgMSIgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiIGJlZ2luPSIwcyI+PC9hbmltYXRlPjxhbmltYXRlIHhsaW5rOmhyZWY9IiNncmV5LWRhcmstY2lyY2xlIiBhdHRyaWJ1dGVOYW1lPSJzdHJva2Utb3BhY2l0eSIgZnJvbT0iMTQxMy43MiIgdG89IjAiIGR1cj0iMi4xMnMiIHZhbHVlcz0iMTsgMTsgMDsgMCIga2V5VGltZXM9IjA7IDAuNzg7IDAuODg7IDEiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIiBiZWdpbj0iMHMiPjwvYW5pbWF0ZT48L3N2Zz4=" alt="Video is loading">
-        </div>
-        <div class="th-no-skin th-init-overlay th-video-overlay th-clickable-overlay th-centered">
-            <div style="" class="th-centered th-big-play-btn th-display-icon-wrapper th-button-color  th-button ">
-		<div class="th-big-play-icon th-display-icon th-svg-container">
-			<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 100 100" style="enable-background:new 0 0 100 100;" xml:space="preserve"><circle class="th-svg-bg-color" cx="50" cy="50" r="49.3"></circle><path id="Forma_1" d="M72.8,48L35.5,25.9c-1.1-0.6-2.5-0.2-3.1,0.9c-0.2,0.4-0.3,0.8-0.3,1.2v44.3c0,1.3,1,2.3,2.3,2.4 c0.4,0,0.8-0.1,1.2-0.3l37.4-22.1c1.1-0.7,1.5-2.2,0.8-3.3C73.4,48.5,73.2,48.2,72.8,48z"></path></svg>
-		</div>
-</div>
-        </div>
-        <div class="th-no-skin  th-reload-overlay th-video-overlay th-clickable-overlay th-centered">
-            <div style="" class="th-centered th-reload-btn th-display-icon-wrapper th-button-color  th-button ">
-		<div class="th-reload-icon th-display-icon th-svg-container">
-			<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 100 100" style="enable-background:new 0 0 100 100;" xml:space="preserve"><circle class="th-svg-bg-color" cx="50" cy="50" r="49.3"></circle><g><g><path d="M52.3,72.3c9.5-1.1,17-8.6,18.1-18.1c1.4-12.4-8.2-22.9-20.3-23v-5.5c0-0.3-0.4-0.5-0.6-0.3l-11.4,8.4 c-0.2,0.1-0.2,0.4,0,0.6l11.4,8.4c0.3,0.2,0.6,0,0.6-0.3v-5.5c8.5,0.1,15.3,7.3,14.7,16c-0.5,7.4-6.5,13.4-13.9,13.9 c-7.9,0.5-14.5-5.1-15.7-12.5c-0.2-1.4-1.4-2.4-2.8-2.4c-1.7,0-3.1,1.5-2.8,3.2C31.2,65.7,41,73.6,52.3,72.3L52.3,72.3z M52.3,72.3"></path></g></g></svg>
-		</div>
-</div>
-        </div>
-        <div class="th-play-overlay th-video-overlay th-centered">
-            <div class="th-display-icon-wrapper th-button-color th-hover-disabled">
-                <div class="th-display-icon-little">
-                    <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 12.8 15" style="enable-background:new 0 0 12.8 15;" xml:space="preserve"><path d="M0.2,14c0-0.7,0-12.5,0-13c0-0.6,0.6-1.1,1.2-0.7c0.5,0.3,9.9,6,10.8,6.5c0.6,0.3,0.5,1.1,0,1.4 c-0.6,0.4-10.1,6.1-10.8,6.5C0.9,15,0.2,14.7,0.2,14z"></path></svg>
-                </div>
-            </div>
-        </div>
-        <div class="th-pause-overlay th-video-overlay th-centered">
-            <div class="th-display-icon-wrapper th-button-color th-hover-disabled">
-                <div class="th-display-icon-little">
-                    <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 8 11" style="enable-background:new 0 0 8 11;" xml:space="preserve"><path d="M5.2,0v11H8V0H5.2z M0,11h2.8V0H0V11z"></path></svg>
-                </div>
-            </div>
-        </div>
-        <div class="th-subtitle-position th-centered th-hide">
-          <div class="th-subtitles-wrapper th-overlay-bg-color th-text-color">
-            <div class="th-subtitles-text th-display-none" style="display: none;">a</div>
-          </div>
-        </div>
-    </div>
-</div></div>
-  <div class="th-overlays th-overlays-container"></div>
-  <div class="th-controls"></div>
-</div>
-<div class="th-bottom-container"></div></div></div></div><div class="Cover__content__2cUrPIni"><h1 class="Title__title__Jgw9CDdc null Title__title--h1__1nb9uflG Title__title--uppercase__15xOsAcP" style=""><span class=""><span style="opacity: 1; transform: matrix(1, 0, 0, 1, 0, 0);">Scuderia&nbsp;</span></span><span class=""><span style="opacity: 1; transform: matrix(1, 0, 0, 1, 0, 0);">Ferrari</span></span></h1><div class="Cover__link__2sunY9Xb" style="opacity: 1;"><div class="Cover__button-wrap__14haVmlp"><a popups="" href="https://www.ferrari.com/en-EN/formula1" url="https://www.ferrari.com/en-EN/formula1" target="_self" class="BtnAction__wrapper__2lcvxx01 undefined" data-event-module-slug="cover-carousel-module" data-event-type="CTA" data-event-label="scuderia_ferrari" data-event-target="https://www.ferrari.com/en-EN/formula1" data-eventcat="GW_LANCI" data-eventpos="1" data-eventtit="scuderia_ferrari" data-eventlbl="internal" data-gtm-vis-first-on-screen-1897175_1569="497334" data-gtm-vis-total-visible-time-1897175_1569="100" data-gtm-vis-has-fired-1897175_1569="1"><span class="BtnAction__text__2vvCUxFa">Discover more</span><span class="BtnAction__icon__3-znqAs5"><span class="Icon__icon__2tdLhZ5T Icon__icon--border__3nsmYcwT Icon__bgtransparent__2DiBPCjn"><span class="Icon__over-circle__1opWzs6L"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="11" stroke="1"></circle></svg></span><svg viewBox="0 0 8 16" class="icon" width="8" height="16" xmlns="http://www.w3.org/2000/svg" style="height: 16px; width: 8px;"><path d="M7.268 9.547L0 16l4-8-4-8 7.268 6.453C7.715 6.82 8 7.377 8 8c0 .623-.285 1.18-.732 1.547z"></path></svg></span></span></a></div></div><div class="Cover__focuson__jrwR2mxx"></div></div></div><div style="display: none;"></div></div></div><span></span></div><div class="swiper-slide swiper-slide-next" role="group" aria-label="3 / 3" style="width: 859px;"><span></span><div><div><div class="Cover__wrapper__2QIj7Vhy theme-ferrari-dark Cover__wrapper--has-scrollpointer__2lCSfPAl"><div class="Cover__bg__229t47d6" style="opacity: 0;"><div class="BackgroundVideo__background__HiFeiReo"><div class="VideoThron__wrapper__MQCgO8QA th-player th-reset th-no-skin th-skin-s2MWml th-video th-user-inactive th-media-paused" id="bgvideo_54d2f79e-2fe4-41dc-836a-461985ae2f7e"><div class="th-main-container share-ferrari-skin-w-960">
-  <div class="th-media-container th-media-bg-color"><div class="th-video-player" itemscope="" itemtype="http://schema.org/VideoObject"><meta itemprop="name" content="Store_Ferrari_Cover_1920x1080"><meta itemprop="description" content=""><meta itemprop="thumbnailUrl" content="https://ferrari-cdn.thron.com/delivery/public/thumbnail/ferrari/54d2f79e-2fe4-41dc-836a-461985ae2f7e/bocxuw/std/0x0/Store_Ferrari_Cover_1920x1080?v=127&amp;dpr=200"><meta itemprop="uploadDate" content="2023-02-13T14:55:17.914Z"><meta itemprop="contentURL" content="https://ferrari-cdn.thron.com/delivery/public/video/ferrari/54d2f79e-2fe4-41dc-836a-461985ae2f7e/bocxuw/WEBFULLHD/Store_Ferrari_Cover_1920x1080">
-    <div id="th-video_2" class="th-video-wrapper"><div class="th-video-inner"><div class="th-video-element"><video src="blob:https://www.ferrari.com/415af05e-fb31-4674-ba60-256ed6f4830b" muted="muted" preload="metadata" poster="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" loop="loop" autoplay="autoplay" webkit-playsinline="webkit-playsinline" playsinline="playsinline" data-object-fit="cover"></video></div><div class="th-poster-element"><div class="th-video-poster" style="background-image: url(&quot;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=&quot;); display: none;"><img width="100%" height="100%" alt="" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-object-fit="cover"></div></div><div class="th-video-clear"></div></div></div>
-    <div class="th-video-overlays th-overlays-container">
-        <div class="th-loader th-video-overlay th-centered">
-            <img src="data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiIGJhc2VQcm9maWxlPSJmdWxsIiB2aWV3Qm94PSItNDAgLTQwIDU4MCA1ODAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiPjxjaXJjbGUgaWQ9ImdyZXktZGFyay1jaXJjbGUiIGN4PSIyNTAiIGN5PSIyNTAiIHI9IjIyNSIgc3Ryb2tlPSIjODU4Njg4IiBzdHJva2Utd2lkdGg9IjcwIiBmaWxsPSJ0cmFuc3BhcmVudCIgc3Ryb2tlLWRhc2hhcnJheT0iMTQxMy43MiIgc3Ryb2tlLWRhc2hvZmZzZXQ9IjE0MTMuNzIiIHRyYW5zZm9ybT0icm90YXRlKC05MCAyNTAgMjUwKSBzY2FsZSgxLC0xKSB0cmFuc2xhdGUoMCwtNTAwKSIgc2hhcGUtcmVuZGVyaW5nPSJnZW9tZXRyaWNQcmVjaXNpb24iPjwvY2lyY2xlPjxjaXJjbGUgaWQ9ImNvbG9yZWQtY2lyY2xlIiBjeD0iMjUwIiBjeT0iMjUwIiByPSIyMjUiIHN0cm9rZT0iI0U2MUQyNSIgc3Ryb2tlLXdpZHRoPSI3MCIgZmlsbD0idHJhbnNwYXJlbnQiIHN0cm9rZS1kYXNoYXJyYXk9IjE0MTMuNzIiIHN0cm9rZS1kYXNob2Zmc2V0PSIxNDEzLjcyIiB0cmFuc2Zvcm09InJvdGF0ZSgtOTAgMjUwIDI1MCkiIHNoYXBlLXJlbmRlcmluZz0iZ2VvbWV0cmljUHJlY2lzaW9uIj48L2NpcmNsZT48YW5pbWF0ZSB4bGluazpocmVmPSIjZ3JleS1kYXJrLWNpcmNsZSIgYXR0cmlidXRlTmFtZT0ic3Ryb2tlLWRhc2hvZmZzZXQiIGZyb209IjE0MTMuNzIiIHRvPSIwIiBkdXI9IjIuMTJzIiB2YWx1ZXM9IjE0MTMuNzI7IDE0MTMuNzI7IDA7IDAiIGtleVRpbWVzPSIwOyAwLjAyOyAwLjI0OyAxIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIgYmVnaW49IjBzIj48L2FuaW1hdGU+PGFuaW1hdGUgeGxpbms6aHJlZj0iI2NvbG9yZWQtY2lyY2xlIiBhdHRyaWJ1dGVOYW1lPSJzdHJva2UtZGFzaG9mZnNldCIgZnJvbT0iMTQxMy43MiIgdG89IjAiIGR1cj0iMi4xMnMiIHZhbHVlcz0iMTQxMy43MjsgMTQxMy43MjsgMTc2Ljc7IDE3Ni43OyAxNDEzLjcyOyAxNDEzLjcyIiBrZXlUaW1lcz0iMDsgMC4yNDsgMC40NjsgMC41NjsgMC43ODsgMSIgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiIGJlZ2luPSIwcyI+PC9hbmltYXRlPjxhbmltYXRlIHhsaW5rOmhyZWY9IiNncmV5LWRhcmstY2lyY2xlIiBhdHRyaWJ1dGVOYW1lPSJzdHJva2Utb3BhY2l0eSIgZnJvbT0iMTQxMy43MiIgdG89IjAiIGR1cj0iMi4xMnMiIHZhbHVlcz0iMTsgMTsgMDsgMCIga2V5VGltZXM9IjA7IDAuNzg7IDAuODg7IDEiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIiBiZWdpbj0iMHMiPjwvYW5pbWF0ZT48L3N2Zz4=" alt="Video is loading">
-        </div>
-        <div class="th-no-skin th-init-overlay th-video-overlay th-clickable-overlay th-centered">
-            <div style="" class="th-centered th-big-play-btn th-display-icon-wrapper th-button-color  th-button ">
-		<div class="th-big-play-icon th-display-icon th-svg-container">
-			<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 100 100" style="enable-background:new 0 0 100 100;" xml:space="preserve"><circle class="th-svg-bg-color" cx="50" cy="50" r="49.3"></circle><path id="Forma_1" d="M72.8,48L35.5,25.9c-1.1-0.6-2.5-0.2-3.1,0.9c-0.2,0.4-0.3,0.8-0.3,1.2v44.3c0,1.3,1,2.3,2.3,2.4 c0.4,0,0.8-0.1,1.2-0.3l37.4-22.1c1.1-0.7,1.5-2.2,0.8-3.3C73.4,48.5,73.2,48.2,72.8,48z"></path></svg>
-		</div>
-</div>
-        </div>
-        <div class="th-no-skin  th-reload-overlay th-video-overlay th-clickable-overlay th-centered">
-            <div style="" class="th-centered th-reload-btn th-display-icon-wrapper th-button-color  th-button ">
-		<div class="th-reload-icon th-display-icon th-svg-container">
-			<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 100 100" style="enable-background:new 0 0 100 100;" xml:space="preserve"><circle class="th-svg-bg-color" cx="50" cy="50" r="49.3"></circle><g><g><path d="M52.3,72.3c9.5-1.1,17-8.6,18.1-18.1c1.4-12.4-8.2-22.9-20.3-23v-5.5c0-0.3-0.4-0.5-0.6-0.3l-11.4,8.4 c-0.2,0.1-0.2,0.4,0,0.6l11.4,8.4c0.3,0.2,0.6,0,0.6-0.3v-5.5c8.5,0.1,15.3,7.3,14.7,16c-0.5,7.4-6.5,13.4-13.9,13.9 c-7.9,0.5-14.5-5.1-15.7-12.5c-0.2-1.4-1.4-2.4-2.8-2.4c-1.7,0-3.1,1.5-2.8,3.2C31.2,65.7,41,73.6,52.3,72.3L52.3,72.3z M52.3,72.3"></path></g></g></svg>
-		</div>
-</div>
-        </div>
-        <div class="th-play-overlay th-video-overlay th-centered">
-            <div class="th-display-icon-wrapper th-button-color th-hover-disabled">
-                <div class="th-display-icon-little">
-                    <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 12.8 15" style="enable-background:new 0 0 12.8 15;" xml:space="preserve"><path d="M0.2,14c0-0.7,0-12.5,0-13c0-0.6,0.6-1.1,1.2-0.7c0.5,0.3,9.9,6,10.8,6.5c0.6,0.3,0.5,1.1,0,1.4 c-0.6,0.4-10.1,6.1-10.8,6.5C0.9,15,0.2,14.7,0.2,14z"></path></svg>
-                </div>
-            </div>
-        </div>
-        <div class="th-pause-overlay th-video-overlay th-centered">
-            <div class="th-display-icon-wrapper th-button-color th-hover-disabled">
-                <div class="th-display-icon-little">
-                    <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 8 11" style="enable-background:new 0 0 8 11;" xml:space="preserve"><path d="M5.2,0v11H8V0H5.2z M0,11h2.8V0H0V11z"></path></svg>
-                </div>
-            </div>
-        </div>
-        <div class="th-subtitle-position th-centered th-hide">
-          <div class="th-subtitles-wrapper th-overlay-bg-color th-text-color">
-            <div class="th-subtitles-text th-display-none" style="display: none;">a</div>
-          </div>
-        </div>
-    </div>
-</div></div>
-  <div class="th-overlays th-overlays-container"></div>
-  <div class="th-controls"></div>
-</div>
-<div class="th-bottom-container"></div></div></div></div><div class="Cover__content__2cUrPIni"><h4 class="Cover__uptitle__mcag4koV" style="opacity: 0;">Collections</h4><h1 class="Title__title__Jgw9CDdc null Title__title--h1__1nb9uflG Title__title--uppercase__15xOsAcP" style="visibility: hidden;"><span class=""><span style="opacity: 1; transform: matrix(1, 0, 0, 1, 0, 0);">NEW&nbsp;</span></span><span class=""><span style="opacity: 1; transform: matrix(1, 0, 0, 1, 0, 0);">2023&nbsp;</span></span><span class=""><span style="opacity: 1; transform: matrix(1, 0, 0, 1, 0, 0);">SPRING-SUMMER&nbsp;</span></span><span class=""><span style="opacity: 1; transform: matrix(1, 0, 0, 1, 0, 0);">COLLECTION</span></span></h1><div class="Cover__link__2sunY9Xb" style="opacity: 0;"><div class="Cover__button-wrap__14haVmlp"><a popups="" href="https://store.ferrari.com/en-gb/explore/collection-spring-summer-2023?from=GWvideo_Style" url="https://store.ferrari.com/en-gb/explore/collection-spring-summer-2023?from=GWvideo_Style" target="_self" class="BtnAction__wrapper__2lcvxx01 undefined" data-event-module-slug="cover-carousel-module" data-event-type="CTA" data-event-label="new_2023_spring_summer_collection" data-event-target="https://store.ferrari.com/en-gb/explore/collection-spring-summer-2023?from=GWvideo_Style" data-eventcat="GW_LANCI" data-eventpos="2" data-eventtit="new_2023_spring_summer_collection" data-eventlbl="internal" data-gtm-vis-first-on-screen-1897175_1569="510556" data-gtm-vis-total-visible-time-1897175_1569="100" data-gtm-vis-has-fired-1897175_1569="1" tabindex="-1"><span class="BtnAction__text__2vvCUxFa">Discover more</span><span class="BtnAction__icon__3-znqAs5"><span class="Icon__icon__2tdLhZ5T Icon__icon--border__3nsmYcwT Icon__bgtransparent__2DiBPCjn"><span class="Icon__over-circle__1opWzs6L"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="11" stroke="1"></circle></svg></span><svg viewBox="0 0 8 16" class="icon" width="8" height="16" xmlns="http://www.w3.org/2000/svg" style="height: 16px; width: 8px;"><path d="M7.268 9.547L0 16l4-8-4-8 7.268 6.453C7.715 6.82 8 7.377 8 8c0 .623-.285 1.18-.732 1.547z"></path></svg></span></span></a></div></div><div class="Cover__focuson__jrwR2mxx"></div></div></div><div style="display: none;"></div></div></div><span></span></div></div><div class="pagination Carousel__pagination__Zb_scMBH"><div class="bullets swiper-pagination-clickable bullet--bullets swiper-pagination-horizontal">
-            <span class="bullet" tabindex="0">
-              <svg width="20" height="20">
-                <mask id="carousel-bullet-mask-47">
-                  <circle cx="10" cy="10" r="9" stroke-width="2" stroke="#ffffff" fill="none"></circle>
-                </mask>
-                <g mask="url(#carousel-bullet-mask-47)">
-                  <circle class="bullet-bg" cx="10" cy="10" r="10" fill="#ffffff"></circle>
-                  <circle class="bullet-progress-circle" cx="10" cy="10" r="9" stroke-width="3" fill="none" style="stroke-dashoffset: 0px;"></circle>
-                </g>
-              </svg>
-            </span>
-          
-            <span class="bullet bullet--active" tabindex="0" aria-current="true">
-              <svg width="20" height="20">
-                <mask id="carousel-bullet-mask-921">
-                  <circle cx="10" cy="10" r="9" stroke-width="2" stroke="#ffffff" fill="none"></circle>
-                </mask>
-                <g mask="url(#carousel-bullet-mask-921)">
-                  <circle class="bullet-bg" cx="10" cy="10" r="10" fill="#ffffff"></circle>
-                  <circle class="bullet-progress-circle" cx="10" cy="10" r="9" stroke-width="3" fill="none" style="stroke-dashoffset: 5.25px;"></circle>
-                </g>
-              </svg>
-            </span>
-          
-            <span class="bullet" tabindex="0">
-              <svg width="20" height="20">
-                <mask id="carousel-bullet-mask-713">
-                  <circle cx="10" cy="10" r="9" stroke-width="2" stroke="#ffffff" fill="none"></circle>
-                </mask>
-                <g mask="url(#carousel-bullet-mask-713)">
-                  <circle class="bullet-bg" cx="10" cy="10" r="10" fill="#ffffff"></circle>
-                  <circle class="bullet-progress-circle" cx="10" cy="10" r="9" stroke-width="3" fill="none" style="stroke-dashoffset: 0px;"></circle>
-                </g>
-              </svg>
-            </span>
-          </div></div><span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div></div><div class="CoverCarousel__scroll-indicator__39jcFX36"><div class="ScrollIndicator__wrapper__2KBYeWkO"><div class="ScrollIndicator__item__1YMaRnGe"><svg width="40" height="15" viewBox="0 0 40 15" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M20 9L0 0l16.182 13.35a6 6 0 0 0 7.636 0L40 0 20 9z" fill="#fff"></path></svg></div><div class="ScrollIndicator__item__1YMaRnGe"><svg width="40" height="15" viewBox="0 0 40 15" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M20 9L0 0l16.182 13.35a6 6 0 0 0 7.636 0L40 0 20 9z" fill="#fff"></path></svg></div></div></div></div></div><span></span></div><span></span><div class="ThumbCarousel__container__jWuFvIDr theme-ferrari-light" data-pagesection="thumb-carousel"><div class="ThumbCarousel__internal-wrapper__1kyfYZ4h"><div class="Carousel__container__6clwioBJ Carousel__container--overflow__3XCP4etE"><div class="swiper-container Carousel__dark-timed__1XA9f3wc swiper-fade swiper-initialized swiper-horizontal swiper-watch-progress swiper-backface-hidden" aria-label="carousel"><div class="swiper-wrapper" id="swiper-wrapper-29fde5739be8e02a" aria-live="off" style="transition-duration: 300ms;"><div class="swiper-slide swiper-slide-visible swiper-slide-active" style="width: 859px; opacity: 1; transform: translate3d(0px, 0px, 0px); transition-duration: 300ms;" role="group" aria-label="1 / 4"><div class="ThumbCarousel__slide__1h3GZl70"><div class="ThumbCarousel__slide--wrap__17XNzI5V"><div class="ThumbCarousel__text__3UvaMu3O"><a content="Read more" title="Read more" url="https://www.ferrari.com/en-EN/formula1/articles/miami-grand-prix-2023-qualifying-report" target="_self" href="https://www.ferrari.com/en-EN/formula1/articles/miami-grand-prix-2023-qualifying-report" data-event-module-slug="thumb-carousel" data-event-type="CTA" data-event-label="MIAMI GRAND PRIX - CARLOS  THIRD  AND  CHARLES  SEVENTH  IN  AN  UNUSUAL  QUALIFYING  IN  FLORIDA" data-event-target="https://www.ferrari.com/en-EN/formula1/articles/miami-grand-prix-2023-qualifying-report" data-eventcat="GW_NWSC" data-eventpos="0" data-eventtit="miami_grand_prix_carlos_third_and_charles_seventh_in_an_unusual_qualifying_in_florida" data-eventlbl="interal"><h2 class="Title__title__Jgw9CDdc null Title__title--h2__3mmoLbUW Title__title--uppercase__15xOsAcP"><span class=""><span style="opacity: 1; transform: matrix(1, 0, 0, 1, 0, 0);">MIAMI&nbsp;</span></span><span class=""><span style="opacity: 1; transform: matrix(1, 0, 0, 1, 0, 0);">GRAND&nbsp;</span></span><span class=""><span style="opacity: 1; transform: matrix(1, 0, 0, 1, 0, 0);">PRIX&nbsp;</span></span><span class=""><span style="opacity: 1; transform: matrix(1, 0, 0, 1, 0, 0);">-&nbsp;</span></span><span class=""><span style="opacity: 1; transform: matrix(1, 0, 0, 1, 0, 0);">CARLOS&nbsp;</span></span><span class=""><span style="opacity: 1; transform: matrix(1, 0, 0, 1, 0, 0);">THIRD&nbsp;</span></span><span class=""><span style="opacity: 1; transform: matrix(1, 0, 0, 1, 0, 0);">AND&nbsp;</span></span><span class=""><span style="opacity: 1; transform: matrix(1, 0, 0, 1, 0, 0);">CHARLES&nbsp;</span></span><span class=""><span style="opacity: 1; transform: matrix(1, 0, 0, 1, 0, 0);">SEVENTH&nbsp;</span></span><span class=""><span style="opacity: 1; transform: matrix(1, 0, 0, 1, 0, 0);">IN&nbsp;</span></span><span class=""><span style="opacity: 1; transform: matrix(1, 0, 0, 1, 0, 0);">AN&nbsp;</span></span><span class=""><span style="opacity: 1; transform: matrix(1, 0, 0, 1, 0, 0);">UNUSUAL&nbsp;</span></span><span class=""><span style="opacity: 1; transform: matrix(1, 0, 0, 1, 0, 0);">QUALIFYING&nbsp;</span></span><span class=""><span style="opacity: 1; transform: matrix(1, 0, 0, 1, 0, 0);">IN&nbsp;</span></span><span class=""><span style="opacity: 1; transform: matrix(1, 0, 0, 1, 0, 0);">FLORIDA</span></span></h2></a><div class="ThumbCarousel__desc__3wdshqqy" style="opacity: 1; transform: matrix(1, 0, 0, 1, 0, 0);">Qualifying produced an unexpected grid for the Miami Grand Prix and the session delivered mixed emotions for Scuderia Ferrari. Carlos Sainz will start third, his best grid position of the season, while Charles Leclerc has to settle for seventh spot on the fourth row after crashing into the barriers at turn 7 on his second run in Q3.</div><div style="opacity: 1; transform: matrix(1, 0, 0, 1, 0, 0);"><a title="Read more" popups="" href="https://www.ferrari.com/en-EN/formula1/articles/miami-grand-prix-2023-qualifying-report" url="https://www.ferrari.com/en-EN/formula1/articles/miami-grand-prix-2023-qualifying-report" target="_self" class="BtnAction__wrapper__2lcvxx01 undefined" data-event-module-slug="thumb-carousel" data-event-type="CTA" data-event-label="MIAMI GRAND PRIX - CARLOS  THIRD  AND  CHARLES  SEVENTH  IN  AN  UNUSUAL  QUALIFYING  IN  FLORIDA" data-event-target="https://www.ferrari.com/en-EN/formula1/articles/miami-grand-prix-2023-qualifying-report" data-eventcat="GW_NWSC" data-eventpos="0" data-eventtit="miami_grand_prix_carlos_third_and_charles_seventh_in_an_unusual_qualifying_in_florida" data-eventlbl="interal"><span class="BtnAction__text__2vvCUxFa">Read more</span><span class="BtnAction__icon__3-znqAs5"><span class="Icon__icon__2tdLhZ5T Icon__icon--border__3nsmYcwT Icon__bgtransparent__2DiBPCjn"><span class="Icon__over-circle__1opWzs6L"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="11" stroke="1"></circle></svg></span><svg viewBox="0 0 8 16" class="icon" width="8" height="16" xmlns="http://www.w3.org/2000/svg" style="height: 16px; width: 8px;"><path d="M7.268 9.547L0 16l4-8-4-8 7.268 6.453C7.715 6.82 8 7.377 8 8c0 .623-.285 1.18-.732 1.547z"></path></svg></span></span></a></div></div><div class="ThumbCarousel__thumb__lMKfa6RO"><div class="ImgAnimation__wrapper__1XghLWE8" style="padding-top: 112.642%; width: 100%;"><div class="ImgAnimation__content__2gXtucl6" style="opacity: 1;"><div class="ImgAnimation__inner__3_q4XJuD"><img src="https://cdn.ferrari.com/cms/network/media/img/resize/6456e81f9747770021f081d2-2023-ferrari-miami-grand-prix-qualifying-report-gtw2?width=530&amp;height=597" alt="Qualifying produced an unexpected grid for the Miami Grand Prix and the session delivered mixed emotions for Scuderia Ferrari. " title="Scuderia Ferrari at the Miami Grand Prix 2023 Qualifying" data-object-fit="cover" class="Img__image__1RV_fMUN Img__image--absolute__2xQT3Qrw Img__image--cover__2yM8XGZ0"></div></div></div></div></div></div></div><div class="swiper-slide swiper-slide-next" style="width: 859px; opacity: 0; transform: translate3d(-859px, 0px, 0px); transition-duration: 300ms;" role="group" aria-label="2 / 4"><div class="ThumbCarousel__slide__1h3GZl70"><div class="ThumbCarousel__slide--wrap__17XNzI5V"><div class="ThumbCarousel__text__3UvaMu3O"><a content="Read more" title="Read more" url="https://www.ferrari.com/en-EN/hypercar/articles/third-place-at-spa-for-ferrari-499p" target="_self" href="https://www.ferrari.com/en-EN/hypercar/articles/third-place-at-spa-for-ferrari-499p" data-event-module-slug="thumb-carousel" data-event-type="CTA" data-event-label="THIRD  PLACE  AT  SPA  FOR  FERRARI  499P" data-event-target="https://www.ferrari.com/en-EN/hypercar/articles/third-place-at-spa-for-ferrari-499p" data-eventcat="GW_NWSC" data-eventpos="1" data-eventtit="third_place_at_spa_for_ferrari_499_p" data-eventlbl="interal" tabindex="-1"><h2 class="Title__title__Jgw9CDdc null Title__title--h2__3mmoLbUW Title__title--uppercase__15xOsAcP" style=""><span class=""><span style="opacity: 0; transform: matrix(0.99756, 0.06975, -0.06975, 0.99756, 0, 25);">THIRD&nbsp;</span></span><span class=""><span style="opacity: 0; transform: matrix(0.99756, 0.06975, -0.06975, 0.99756, 0, 25);">PLACE&nbsp;</span></span><span class=""><span style="opacity: 0; transform: matrix(0.99756, 0.06975, -0.06975, 0.99756, 0, 25);">AT&nbsp;</span></span><span class=""><span style="opacity: 0; transform: matrix(0.99756, 0.06975, -0.06975, 0.99756, 0, 25);">SPA&nbsp;</span></span><span class=""><span style="opacity: 0; transform: matrix(0.99756, 0.06975, -0.06975, 0.99756, 0, 25);">FOR&nbsp;</span></span><span class=""><span style="opacity: 0; transform: matrix(0.99756, 0.06975, -0.06975, 0.99756, 0, 25);">FERRARI&nbsp;</span></span><span class=""><span style="opacity: 0; transform: matrix(0.99756, 0.06975, -0.06975, 0.99756, 0, 25);">499P</span></span></h2></a><div class="ThumbCarousel__desc__3wdshqqy" style="opacity: 0; transform: matrix(1, 0, 0, 1, 0, 25);">The 6 Hours of Spa-Francorchamps, round three of the FIA WEC, ended with the Ferrari 499P crewed by Alessandro Pier Guidi, James Calado and Antonio Giovinazzi securing its first podium in the Hypercar class.</div><div style="opacity: 0; transform: matrix(1, 0, 0, 1, 0, 25);"><a title="Read more" popups="" href="https://www.ferrari.com/en-EN/hypercar/articles/third-place-at-spa-for-ferrari-499p" url="https://www.ferrari.com/en-EN/hypercar/articles/third-place-at-spa-for-ferrari-499p" target="_self" class="BtnAction__wrapper__2lcvxx01 undefined" data-event-module-slug="thumb-carousel" data-event-type="CTA" data-event-label="THIRD  PLACE  AT  SPA  FOR  FERRARI  499P" data-event-target="https://www.ferrari.com/en-EN/hypercar/articles/third-place-at-spa-for-ferrari-499p" data-eventcat="GW_NWSC" data-eventpos="1" data-eventtit="third_place_at_spa_for_ferrari_499_p" data-eventlbl="interal" tabindex="-1"><span class="BtnAction__text__2vvCUxFa">Read more</span><span class="BtnAction__icon__3-znqAs5"><span class="Icon__icon__2tdLhZ5T Icon__icon--border__3nsmYcwT Icon__bgtransparent__2DiBPCjn"><span class="Icon__over-circle__1opWzs6L"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="11" stroke="1"></circle></svg></span><svg viewBox="0 0 8 16" class="icon" width="8" height="16" xmlns="http://www.w3.org/2000/svg" style="height: 16px; width: 8px;"><path d="M7.268 9.547L0 16l4-8-4-8 7.268 6.453C7.715 6.82 8 7.377 8 8c0 .623-.285 1.18-.732 1.547z"></path></svg></span></span></a></div></div><div class="ThumbCarousel__thumb__lMKfa6RO"><div class="ImgAnimation__wrapper__1XghLWE8" style="padding-top: 112.642%; width: 0%;"><div class="ImgAnimation__content__2gXtucl6" style="opacity: 0;"><div class="ImgAnimation__inner__3_q4XJuD"><img src="https://cdn.ferrari.com/cms/network/media/img/resize/644da706b43339002380e582-2023-ferrari-hypercar-6h-spa-race-gtw2?width=530&amp;height=597" alt="The 6 Hours of Spa-Francorchamps, round three of the FIA WEC, ended with the Ferrari 499P crewed by Alessandro Pier Guidi, James Calado and Antonio Giovinazzi securing its first podium in the Hypercar class. " title="THIRD  PLACE  AT  SPA  FOR  FERRARI  499P" data-object-fit="cover" class="Img__image__1RV_fMUN Img__image--absolute__2xQT3Qrw Img__image--cover__2yM8XGZ0"></div></div></div></div></div></div></div><div class="swiper-slide" style="width: 859px; opacity: 0; transform: translate3d(-1718px, 0px, 0px); transition-duration: 300ms;" role="group" aria-label="3 / 4"><div class="ThumbCarousel__slide__1h3GZl70"><div class="ThumbCarousel__slide--wrap__17XNzI5V"><div class="ThumbCarousel__text__3UvaMu3O"><a content="Read more" title="Read more" url="https://www.ferrari.com/en-EN/magazine/articles/snow-fun-ferrari-purosangue-dolomites-video" target="_self" href="https://www.ferrari.com/en-EN/magazine/articles/snow-fun-ferrari-purosangue-dolomites-video" data-event-module-slug="thumb-carousel" data-event-type="CTA" data-event-label="Snow fun" data-event-target="https://www.ferrari.com/en-EN/magazine/articles/snow-fun-ferrari-purosangue-dolomites-video" data-eventcat="GW_NWSC" data-eventpos="2" data-eventtit="snow_fun" data-eventlbl="interal" tabindex="-1"><h2 class="Title__title__Jgw9CDdc null Title__title--h2__3mmoLbUW Title__title--uppercase__15xOsAcP" style=""><span class=""><span style="opacity: 0; transform: matrix(0.99756, 0.06975, -0.06975, 0.99756, 0, 25);">Snow&nbsp;</span></span><span class=""><span style="opacity: 0; transform: matrix(0.99756, 0.06975, -0.06975, 0.99756, 0, 25);">fun</span></span></h2></a><div class="ThumbCarousel__desc__3wdshqqy" style="opacity: 0; transform: matrix(1, 0, 0, 1, 0, 25);">We go behind the scenes as two pedigree piloti – GT racing champion and Ferrari factory driver Andrea Bertolini and rising GT star Lilou Wadoux put the Purosangue to the test on icy roads</div><div style="opacity: 0; transform: matrix(1, 0, 0, 1, 0, 25);"><a title="Read more" popups="" href="https://www.ferrari.com/en-EN/magazine/articles/snow-fun-ferrari-purosangue-dolomites-video" url="https://www.ferrari.com/en-EN/magazine/articles/snow-fun-ferrari-purosangue-dolomites-video" target="_self" class="BtnAction__wrapper__2lcvxx01 undefined" data-event-module-slug="thumb-carousel" data-event-type="CTA" data-event-label="Snow fun" data-event-target="https://www.ferrari.com/en-EN/magazine/articles/snow-fun-ferrari-purosangue-dolomites-video" data-eventcat="GW_NWSC" data-eventpos="2" data-eventtit="snow_fun" data-eventlbl="interal" tabindex="-1"><span class="BtnAction__text__2vvCUxFa">Read more</span><span class="BtnAction__icon__3-znqAs5"><span class="Icon__icon__2tdLhZ5T Icon__icon--border__3nsmYcwT Icon__bgtransparent__2DiBPCjn"><span class="Icon__over-circle__1opWzs6L"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="11" stroke="1"></circle></svg></span><svg viewBox="0 0 8 16" class="icon" width="8" height="16" xmlns="http://www.w3.org/2000/svg" style="height: 16px; width: 8px;"><path d="M7.268 9.547L0 16l4-8-4-8 7.268 6.453C7.715 6.82 8 7.377 8 8c0 .623-.285 1.18-.732 1.547z"></path></svg></span></span></a></div></div><div class="ThumbCarousel__thumb__lMKfa6RO"><div class="ImgAnimation__wrapper__1XghLWE8" style="padding-top: 112.642%; width: 0%;"><div class="ImgAnimation__content__2gXtucl6" style="opacity: 0;"><div class="ImgAnimation__inner__3_q4XJuD"><img src="https://cdn.ferrari.com/cms/network/media/img/resize/6437cd01b8e904002276d4c0-sftofm_pr_7713_800x900?width=530&amp;height=597" alt="" title="" data-object-fit="cover" class="Img__image__1RV_fMUN Img__image--absolute__2xQT3Qrw Img__image--cover__2yM8XGZ0"></div></div></div></div></div></div></div><div class="swiper-slide" role="group" aria-label="4 / 4" style="width: 859px; opacity: 0; transform: translate3d(-2577px, 0px, 0px); transition-duration: 300ms;"><div class="ThumbCarousel__slide__1h3GZl70"><div class="ThumbCarousel__slide--wrap__17XNzI5V"><div class="ThumbCarousel__text__3UvaMu3O"><a content="Read more" title="Read more" url="https://www.ferrari.com/en-EN/magazine/articles/the-official-ferrari-magazine-issue-58" target="_self" href="https://www.ferrari.com/en-EN/magazine/articles/the-official-ferrari-magazine-issue-58" data-event-module-slug="thumb-carousel" data-event-type="CTA" data-event-label="THE  OFFICIAL  FERRARI  MAGAZINE:  ISSUE  58" data-event-target="https://www.ferrari.com/en-EN/magazine/articles/the-official-ferrari-magazine-issue-58" data-eventcat="GW_NWSC" data-eventpos="3" data-eventtit="the_official_ferrari_magazine_issue_58" data-eventlbl="interal" tabindex="-1"><h2 class="Title__title__Jgw9CDdc null Title__title--h2__3mmoLbUW Title__title--uppercase__15xOsAcP" style=""><span class=""><span style="opacity: 0; transform: matrix(0.99756, 0.06975, -0.06975, 0.99756, 0, 25);">THE&nbsp;</span></span><span class=""><span style="opacity: 0; transform: matrix(0.99756, 0.06975, -0.06975, 0.99756, 0, 25);">OFFICIAL&nbsp;</span></span><span class=""><span style="opacity: 0; transform: matrix(0.99756, 0.06975, -0.06975, 0.99756, 0, 25);">FERRARI&nbsp;</span></span><span class=""><span style="opacity: 0; transform: matrix(0.99756, 0.06975, -0.06975, 0.99756, 0, 25);">MAGAZINE:&nbsp;</span></span><span class=""><span style="opacity: 0; transform: matrix(0.99756, 0.06975, -0.06975, 0.99756, 0, 25);">ISSUE&nbsp;</span></span><span class=""><span style="opacity: 0; transform: matrix(0.99756, 0.06975, -0.06975, 0.99756, 0, 25);">58</span></span></h2></a><div class="ThumbCarousel__desc__3wdshqqy" style="opacity: 0; transform: matrix(1, 0, 0, 1, 0, 25);">The new issue features the lowdown on the latest addition to the Prancing Horse range, the beautiful Ferrari Roma Spider, plus an exclusive interview with Scuderia Ferrari Team Principal Frédéric Vasseur</div><div style="opacity: 0; transform: matrix(1, 0, 0, 1, 0, 25);"><a title="Read more" popups="" href="https://www.ferrari.com/en-EN/magazine/articles/the-official-ferrari-magazine-issue-58" url="https://www.ferrari.com/en-EN/magazine/articles/the-official-ferrari-magazine-issue-58" target="_self" class="BtnAction__wrapper__2lcvxx01 undefined" data-event-module-slug="thumb-carousel" data-event-type="CTA" data-event-label="THE  OFFICIAL  FERRARI  MAGAZINE:  ISSUE  58" data-event-target="https://www.ferrari.com/en-EN/magazine/articles/the-official-ferrari-magazine-issue-58" data-eventcat="GW_NWSC" data-eventpos="3" data-eventtit="the_official_ferrari_magazine_issue_58" data-eventlbl="interal" tabindex="-1"><span class="BtnAction__text__2vvCUxFa">Read more</span><span class="BtnAction__icon__3-znqAs5"><span class="Icon__icon__2tdLhZ5T Icon__icon--border__3nsmYcwT Icon__bgtransparent__2DiBPCjn"><span class="Icon__over-circle__1opWzs6L"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="11" stroke="1"></circle></svg></span><svg viewBox="0 0 8 16" class="icon" width="8" height="16" xmlns="http://www.w3.org/2000/svg" style="height: 16px; width: 8px;"><path d="M7.268 9.547L0 16l4-8-4-8 7.268 6.453C7.715 6.82 8 7.377 8 8c0 .623-.285 1.18-.732 1.547z"></path></svg></span></span></a></div></div><div class="ThumbCarousel__thumb__lMKfa6RO"><div class="ImgAnimation__wrapper__1XghLWE8" style="padding-top: 112.642%; width: 0%;"><div class="ImgAnimation__content__2gXtucl6" style="opacity: 0;"><div class="ImgAnimation__inner__3_q4XJuD"><img src="https://cdn.ferrari.com/cms/network/media/img/resize/6422b5101d627600210b169d-ferrari-roma-spider-magazine-2023-thumb-port?width=530&amp;height=597" alt="The new issue features the lowdown on the latest addition to the Prancing Horse range, the beautiful Ferrari Roma Spider, plus an exclusive interview with Scuderia Ferrari Team Principal Frédéric Vasseur" title="Ferrari Roma Spider 2023" data-object-fit="cover" class="Img__image__1RV_fMUN Img__image--absolute__2xQT3Qrw Img__image--cover__2yM8XGZ0"></div></div></div></div></div></div></div></div><div class="pagination Carousel__pagination__Zb_scMBH Carousel__pagination-with-link__JsiR3xfk"><div class="bullets swiper-pagination-clickable bullet--bullets swiper-pagination-horizontal">
-            <span class="bullet bullet--active" tabindex="0" aria-current="true">
-              <svg width="20" height="20">
-                <mask id="carousel-bullet-mask-133">
-                  <circle cx="10" cy="10" r="9" stroke-width="2" stroke="#ffffff" fill="none"></circle>
-                </mask>
-                <g mask="url(#carousel-bullet-mask-133)">
-                  <circle class="bullet-bg" cx="10" cy="10" r="10" fill="#ffffff"></circle>
-                  <circle class="bullet-progress-circle" cx="10" cy="10" r="9" stroke-width="3" fill="none" style="stroke-dashoffset: 0.76px;"></circle>
-                </g>
-              </svg>
-            </span>
-          
-            <span class="bullet" tabindex="0">
-              <svg width="20" height="20">
-                <mask id="carousel-bullet-mask-440">
-                  <circle cx="10" cy="10" r="9" stroke-width="2" stroke="#ffffff" fill="none"></circle>
-                </mask>
-                <g mask="url(#carousel-bullet-mask-440)">
-                  <circle class="bullet-bg" cx="10" cy="10" r="10" fill="#ffffff"></circle>
-                  <circle class="bullet-progress-circle" cx="10" cy="10" r="9" stroke-width="3" fill="none" style="stroke-dashoffset: 70px;"></circle>
-                </g>
-              </svg>
-            </span>
-          
-            <span class="bullet" tabindex="0">
-              <svg width="20" height="20">
-                <mask id="carousel-bullet-mask-935">
-                  <circle cx="10" cy="10" r="9" stroke-width="2" stroke="#ffffff" fill="none"></circle>
-                </mask>
-                <g mask="url(#carousel-bullet-mask-935)">
-                  <circle class="bullet-bg" cx="10" cy="10" r="10" fill="#ffffff"></circle>
-                  <circle class="bullet-progress-circle" cx="10" cy="10" r="9" stroke-width="3" fill="none" style="stroke-dashoffset: 70px;"></circle>
-                </g>
-              </svg>
-            </span>
-          
-            <span class="bullet" tabindex="0">
-              <svg width="20" height="20">
-                <mask id="carousel-bullet-mask-978">
-                  <circle cx="10" cy="10" r="9" stroke-width="2" stroke="#ffffff" fill="none"></circle>
-                </mask>
-                <g mask="url(#carousel-bullet-mask-978)">
-                  <circle class="bullet-bg" cx="10" cy="10" r="10" fill="#ffffff"></circle>
-                  <circle class="bullet-progress-circle" cx="10" cy="10" r="9" stroke-width="3" fill="none" style="stroke-dashoffset: 0px;"></circle>
-                </g>
-              </svg>
-            </span>
-          </div><div class="Carousel__pagination-link__2-Wakand"><a content="View all news" title="View all news" url="news" target="_self" data-event-module-slug="thumb-carousel" data-event-type="CTA" data-event-label="View all news" data-event-target="news" data-eventcat="GW_NWSC" data-eventtit="all" data-eventlbl="listNews" href="/en-NO/news">View all news</a></div></div><div class="arrow-next" data-event-module-slug="thumb-carousel" data-event-type="CTA" data-event-label="next" data-eventcat="GW_LANCI" data-eventpos="1" data-eventtit="slide" data-eventlbl="next" tabindex="0" role="button" aria-label="Next slide" aria-controls="swiper-wrapper-29fde5739be8e02a" aria-disabled="false"><svg width="8" height="16" viewBox="0 0 8 16" xmlns="http://www.w3.org/2000/svg"><path d="M7.268 9.547L0 16l4-8-4-8 7.268 6.453C7.715 6.82 8 7.377 8 8c0 .623-.285 1.18-.732 1.547z"></path></svg></div><div class="arrow-prev swiper-button-disabled" data-event-module-slug="thumb-carousel" data-event-type="CTA" data-event-label="prev" data-eventcat="GW_LANCI" data-eventpos="0" data-eventtit="slide" data-eventlbl="prev" tabindex="-1" role="button" aria-label="Previous slide" aria-controls="swiper-wrapper-29fde5739be8e02a" aria-disabled="true"><svg width="8" height="16" viewBox="0 0 8 16" xmlns="http://www.w3.org/2000/svg"><path d="M.732 9.547L8 16 4 8l4-8L.732 6.453A1.996 1.996 0 0 0 0 8c0 .623.285 1.18.732 1.547z"></path></svg></div><span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div></div></div></div><span></span><div><div class="SplitBanner__wrapper__1RBx_W3n theme-ferrari-dark" data-pagesection="splitd"><div class="SplitBanner__item__H2osydVY SplitBanner__item--double__3_GrZg2M"><a href="https://store.ferrari.com/en-gb/women/clothing/dresses-and-jumpsuits?from=GWpost_SS23" target="_blank" class="SplitBanner__full-link__2aRXPLK2" data-event-module-slug="splitd" data-event-type="CTA" data-event-label="EXPLORE" data-event-target="https://store.ferrari.com/en-gb/women/clothing/dresses-and-jumpsuits?from=GWpost_SS23" data-eventcat="GW_SPLIT" data-eventpos="0" data-eventtit="innovative_materials" data-eventlbl="external"><div class="SplitBanner__content-text__1hqAqbSX"><div class="SplitBanner__content-inside__32NyBTJD"><h5 class="SplitBanner__pre-title__3Nu_fHHP" style="opacity: 0; transform: matrix(1, 0, 0, 1, 0, 25);">Collections</h5><h3 class="Title__title__Jgw9CDdc Title__title--h1__1nb9uflG undefined Title__title--uppercase__15xOsAcP" style="visibility: hidden;"><span class=""><span>INNOVATIVE&nbsp;</span></span><span class=""><span>MATERIALS</span></span></h3><div class="SplitBanner__text__2TjuZ2-x" style="opacity: 0; transform: matrix(1, 0, 0, 1, 0, 25);"><br></div><div class="SplitBanner__actions__2B-xXSWV" style="opacity: 0; transform: matrix(1, 0, 0, 1, 0, 25);"><span title="EXPLORE" popups="" href="" target="_blank" class="BtnAction__wrapper__2lcvxx01 undefined" data-event-module-slug="splitd" data-event-type="CTA" data-event-label="EXPLORE" data-event-target="https://store.ferrari.com/en-gb/women/clothing/dresses-and-jumpsuits?from=GWpost_SS23"><span class="BtnAction__text__2vvCUxFa">EXPLORE</span><span class="BtnAction__icon__3-znqAs5"><span class="Icon__icon__2tdLhZ5T Icon__icon--border__3nsmYcwT Icon__bgtransparent__2DiBPCjn"><span class="Icon__over-circle__1opWzs6L"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="11" stroke="1"></circle></svg></span><svg viewBox="0 0 8 16" class="icon" width="8" height="16" xmlns="http://www.w3.org/2000/svg" style="height: 16px; width: 8px;"><path d="M7.268 9.547L0 16l4-8-4-8 7.268 6.453C7.715 6.82 8 7.377 8 8c0 .623-.285 1.18-.732 1.547z"></path></svg></span></span></span></div></div></div><div class="SplitBanner__content-media__T7FbHezl"><div class="ImgAnimation__wrapper__1XghLWE8 ImgAnimation__wrapper--dark__3GbCNilP" style="height: 100%;"><div class="ImgAnimation__content__2gXtucl6"><div class="ImgAnimation__inner__3_q4XJuD"><img src="https://cdn.ferrari.com/cms/network/media/img/resize/64415b1c0d03c2002355e8d2-ferrari-store-dresses-and-jumpsuits-2023-l?width=960&amp;height=650" alt="" title="" data-object-fit="cover" class="Img__image__1RV_fMUN Img__image--absolute__2xQT3Qrw Img__image--cover__2yM8XGZ0"></div></div></div></div></a></div><div class="SplitBanner__item__H2osydVY SplitBanner__item--double__3_GrZg2M"><a href="https://www.ferrari.com/en-EN/magazine/articles/soft-power-the-ferrari-roma-spider?from=GWpost_MAGAZINE" target="_self" class="SplitBanner__full-link__2aRXPLK2" data-event-module-slug="splitd" data-event-type="CTA" data-event-label="Discover more" data-event-target="https://www.ferrari.com/en-EN/magazine/articles/soft-power-the-ferrari-roma-spider?from=GWpost_MAGAZINE" data-eventcat="GW_SPLIT" data-eventpos="1" data-eventtit="soft_power" data-eventlbl="internal"><div class="SplitBanner__content-text__1hqAqbSX"><div class="SplitBanner__content-inside__32NyBTJD"><h5 class="SplitBanner__pre-title__3Nu_fHHP" style="opacity: 0; transform: matrix(1, 0, 0, 1, 0, 25);">Magazine</h5><h3 class="Title__title__Jgw9CDdc Title__title--h1__1nb9uflG undefined Title__title--uppercase__15xOsAcP" style="visibility: hidden;"><span class=""><span>SOFT&nbsp;</span></span><span class=""><span>POWER</span></span></h3><div class="SplitBanner__actions__2B-xXSWV" style="opacity: 0; transform: matrix(1, 0, 0, 1, 0, 25);"><span title="Discover more" popups="" href="" target="_self" class="BtnAction__wrapper__2lcvxx01 undefined" data-event-module-slug="splitd" data-event-type="CTA" data-event-label="Discover more" data-event-target="https://www.ferrari.com/en-EN/magazine/articles/soft-power-the-ferrari-roma-spider?from=GWpost_MAGAZINE"><span class="BtnAction__text__2vvCUxFa">Discover more</span><span class="BtnAction__icon__3-znqAs5"><span class="Icon__icon__2tdLhZ5T Icon__icon--border__3nsmYcwT Icon__bgtransparent__2DiBPCjn"><span class="Icon__over-circle__1opWzs6L"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="11" stroke="1"></circle></svg></span><svg viewBox="0 0 8 16" class="icon" width="8" height="16" xmlns="http://www.w3.org/2000/svg" style="height: 16px; width: 8px;"><path d="M7.268 9.547L0 16l4-8-4-8 7.268 6.453C7.715 6.82 8 7.377 8 8c0 .623-.285 1.18-.732 1.547z"></path></svg></span></span></span></div></div></div><div class="SplitBanner__content-media__T7FbHezl"><div class="ImgAnimation__wrapper__1XghLWE8 ImgAnimation__wrapper--dark__3GbCNilP" style="height: 100%;"><div class="ImgAnimation__content__2gXtucl6"><div class="ImgAnimation__inner__3_q4XJuD"><img src="https://cdn.ferrari.com/cms/network/media/img/resize/64246b2cddb9da0022d69431-ferrari-roma-spider-magazine-news-tofm-split-desk?width=960&amp;height=650" alt="" title="" data-object-fit="cover" class="Img__image__1RV_fMUN Img__image--absolute__2xQT3Qrw Img__image--cover__2yM8XGZ0"></div></div></div></div></a></div></div></div><div><div class="SplitBanner__wrapper__1RBx_W3n theme-ferrari-dark" data-pagesection="split-2"><div class="SplitBanner__item__H2osydVY SplitBanner__item--double__3_GrZg2M"><a href="https://preowned.ferrari.com/en-EN?from=GWpost_APPROVED" target="_self" class="SplitBanner__full-link__2aRXPLK2" data-event-module-slug="split-2" data-event-type="CTA" data-event-label="Discover more" data-event-target="https://preowned.ferrari.com/en-EN?from=GWpost_APPROVED" data-eventcat="GW_SPLIT" data-eventpos="0" data-eventtit="pre_owned" data-eventlbl="internal"><div class="SplitBanner__content-text__1hqAqbSX"><div class="SplitBanner__content-inside__32NyBTJD"><h5 class="SplitBanner__pre-title__3Nu_fHHP" style="opacity: 0; transform: matrix(1, 0, 0, 1, 0, 25);">Ferrari Approved</h5><h3 class="Title__title__Jgw9CDdc Title__title--h1__1nb9uflG undefined Title__title--uppercase__15xOsAcP" style="visibility: hidden;"><span class=""><span>PRE-OWNED</span></span></h3><div class="SplitBanner__actions__2B-xXSWV" style="opacity: 0; transform: matrix(1, 0, 0, 1, 0, 25);"><span title="Discover more" popups="" href="" target="_self" class="BtnAction__wrapper__2lcvxx01 undefined" data-event-module-slug="split-2" data-event-type="CTA" data-event-label="Discover more" data-event-target="https://preowned.ferrari.com/en-EN?from=GWpost_APPROVED"><span class="BtnAction__text__2vvCUxFa">Discover more</span><span class="BtnAction__icon__3-znqAs5"><span class="Icon__icon__2tdLhZ5T Icon__icon--border__3nsmYcwT Icon__bgtransparent__2DiBPCjn"><span class="Icon__over-circle__1opWzs6L"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="11" stroke="1"></circle></svg></span><svg viewBox="0 0 8 16" class="icon" width="8" height="16" xmlns="http://www.w3.org/2000/svg" style="height: 16px; width: 8px;"><path d="M7.268 9.547L0 16l4-8-4-8 7.268 6.453C7.715 6.82 8 7.377 8 8c0 .623-.285 1.18-.732 1.547z"></path></svg></span></span></span></div></div></div><div class="SplitBanner__content-media__T7FbHezl"><div class="ImgAnimation__wrapper__1XghLWE8 ImgAnimation__wrapper--dark__3GbCNilP" style="height: 100%;"><div class="ImgAnimation__content__2gXtucl6"><div class="ImgAnimation__inner__3_q4XJuD"><img src="https://cdn.ferrari.com/cms/network/media/img/resize/62bee9b5f93ef93eb2a0a714-ferrari-pre-owned-488-spider-split-banner-gate-july-2022-desk?width=960&amp;height=650" alt="" title="" data-object-fit="cover" class="Img__image__1RV_fMUN Img__image--absolute__2xQT3Qrw Img__image--cover__2yM8XGZ0"></div></div></div></div></a></div><div class="SplitBanner__item__H2osydVY SplitBanner__item--double__3_GrZg2M SplitBanner__hasGradient__2nGRMUsc"><a href="https://www.ferrari.com/en-EN/auto/driving-courses?from=GWpost_CORSO-PILOTA" target="_self" class="SplitBanner__full-link__2aRXPLK2" data-event-module-slug="split-2" data-event-type="CTA" data-event-label="Discover more" data-event-target="https://www.ferrari.com/en-EN/auto/driving-courses?from=GWpost_CORSO-PILOTA" data-eventcat="GW_SPLIT" data-eventpos="1" data-eventtit="corsi_pilota" data-eventlbl="internal"><div class="SplitBanner__content-text__1hqAqbSX"><div class="SplitBanner__content-inside__32NyBTJD"><h3 class="Title__title__Jgw9CDdc Title__title--h1__1nb9uflG undefined Title__title--uppercase__15xOsAcP" style="visibility: hidden;"><span class=""><span>Corsi&nbsp;</span></span><span class=""><span>Pilota</span></span></h3><div class="SplitBanner__actions__2B-xXSWV" style="opacity: 0; transform: matrix(1, 0, 0, 1, 0, 25);"><span title="Discover more" popups="" href="" target="_self" class="BtnAction__wrapper__2lcvxx01 undefined" data-event-module-slug="split-2" data-event-type="CTA" data-event-label="Discover more" data-event-target="https://www.ferrari.com/en-EN/auto/driving-courses?from=GWpost_CORSO-PILOTA"><span class="BtnAction__text__2vvCUxFa">Discover more</span><span class="BtnAction__icon__3-znqAs5"><span class="Icon__icon__2tdLhZ5T Icon__icon--border__3nsmYcwT Icon__bgtransparent__2DiBPCjn"><span class="Icon__over-circle__1opWzs6L"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="11" stroke="1"></circle></svg></span><svg viewBox="0 0 8 16" class="icon" width="8" height="16" xmlns="http://www.w3.org/2000/svg" style="height: 16px; width: 8px;"><path d="M7.268 9.547L0 16l4-8-4-8 7.268 6.453C7.715 6.82 8 7.377 8 8c0 .623-.285 1.18-.732 1.547z"></path></svg></span></span></span></div></div></div><div class="SplitBanner__content-media__T7FbHezl"><div class="ImgAnimation__wrapper__1XghLWE8 ImgAnimation__wrapper--dark__3GbCNilP" style="height: 100%;"><div class="ImgAnimation__content__2gXtucl6"><div class="ImgAnimation__inner__3_q4XJuD"><img src="https://cdn.ferrari.com/cms/network/media/img/resize/6424510f3e150100222cbc6c-ferrari-corso-pilota-sport-box-gate?width=960&amp;height=650" alt="" title="" data-object-fit="cover" class="Img__image__1RV_fMUN Img__image--absolute__2xQT3Qrw Img__image--cover__2yM8XGZ0"></div></div></div></div></a></div></div></div><div><div class="SplitBanner__wrapper__1RBx_W3n theme-ferrari-dark" data-pagesection="split-3"><div class="SplitBanner__item__H2osydVY SplitBanner__item--double__3_GrZg2M"><a href="https://www.ferrari.com/en-EN/hypercar?from=GWpost_HYPERCAR-wec-debut" target="_self" class="SplitBanner__full-link__2aRXPLK2" data-event-module-slug="split-3" data-event-type="CTA" data-event-label="Discover the World Endurance Championship" data-event-target="https://www.ferrari.com/en-EN/hypercar?from=GWpost_HYPERCAR-wec-debut" data-eventcat="GW_SPLIT" data-eventpos="0" data-eventtit="the_ferrari_499_p_in_the_fia_wec" data-eventlbl="internal"><div class="SplitBanner__content-text__1hqAqbSX"><div class="SplitBanner__content-inside__32NyBTJD"><h3 class="Title__title__Jgw9CDdc Title__title--h1__1nb9uflG undefined Title__title--uppercase__15xOsAcP" style="visibility: hidden;"><span class=""><span>The&nbsp;</span></span><span class=""><span>FERRARI&nbsp;</span></span><span class=""><span>499P&nbsp;</span></span><span class=""><span>in&nbsp;</span></span><span class=""><span>the&nbsp;</span></span><span class=""><span>FIA&nbsp;</span></span><span class=""><span>WEC</span></span></h3><div class="SplitBanner__actions__2B-xXSWV" style="opacity: 0; transform: matrix(1, 0, 0, 1, 0, 25);"><span title="Discover the World Endurance Championship" popups="" href="" target="_self" class="BtnAction__wrapper__2lcvxx01 undefined" data-event-module-slug="split-3" data-event-type="CTA" data-event-label="Discover the World Endurance Championship" data-event-target="https://www.ferrari.com/en-EN/hypercar?from=GWpost_HYPERCAR-wec-debut"><span class="BtnAction__text__2vvCUxFa">Discover the World Endurance Championship</span><span class="BtnAction__icon__3-znqAs5"><span class="Icon__icon__2tdLhZ5T Icon__icon--border__3nsmYcwT Icon__bgtransparent__2DiBPCjn"><span class="Icon__over-circle__1opWzs6L"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="11" stroke="1"></circle></svg></span><svg viewBox="0 0 8 16" class="icon" width="8" height="16" xmlns="http://www.w3.org/2000/svg" style="height: 16px; width: 8px;"><path d="M7.268 9.547L0 16l4-8-4-8 7.268 6.453C7.715 6.82 8 7.377 8 8c0 .623-.285 1.18-.732 1.547z"></path></svg></span></span></span></div></div></div><div class="SplitBanner__content-media__T7FbHezl"><div class="ImgAnimation__wrapper__1XghLWE8 ImgAnimation__wrapper--dark__3GbCNilP" style="height: 100%;"><div class="ImgAnimation__content__2gXtucl6"><div class="ImgAnimation__inner__3_q4XJuD"><img src="https://cdn.ferrari.com/cms/network/media/img/resize/6409c1b8c03a600022ea4f0b-ferrari-499p-debut-wec-box-gate-desk?width=960&amp;height=650" alt="" title="" data-object-fit="cover" class="Img__image__1RV_fMUN Img__image--absolute__2xQT3Qrw Img__image--cover__2yM8XGZ0"></div></div></div></div></a></div><div class="SplitBanner__item__H2osydVY SplitBanner__item--double__3_GrZg2M"><a href="https://www.ferrari.com/en-EN/auto/past-model?from=GWpost_PAST-MODELS" target="_self" class="SplitBanner__full-link__2aRXPLK2" data-event-module-slug="split-3" data-event-type="CTA" data-event-label="Discover more" data-event-target="https://www.ferrari.com/en-EN/auto/past-model?from=GWpost_PAST-MODELS" data-eventcat="GW_SPLIT" data-eventpos="1" data-eventtit="past_models" data-eventlbl="internal"><div class="SplitBanner__content-text__1hqAqbSX"><div class="SplitBanner__content-inside__32NyBTJD"><h3 class="Title__title__Jgw9CDdc Title__title--h1__1nb9uflG undefined Title__title--uppercase__15xOsAcP" style="visibility: hidden;"><span class=""><span>PAST&nbsp;</span></span><span class=""><span>MODELS</span></span></h3><div class="SplitBanner__actions__2B-xXSWV" style="opacity: 0; transform: matrix(1, 0, 0, 1, 0, 25);"><span title="Discover more" popups="" href="" target="_self" class="BtnAction__wrapper__2lcvxx01 undefined" data-event-module-slug="split-3" data-event-type="CTA" data-event-label="Discover more" data-event-target="https://www.ferrari.com/en-EN/auto/past-model?from=GWpost_PAST-MODELS"><span class="BtnAction__text__2vvCUxFa">Discover more</span><span class="BtnAction__icon__3-znqAs5"><span class="Icon__icon__2tdLhZ5T Icon__icon--border__3nsmYcwT Icon__bgtransparent__2DiBPCjn"><span class="Icon__over-circle__1opWzs6L"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="11" stroke="1"></circle></svg></span><svg viewBox="0 0 8 16" class="icon" width="8" height="16" xmlns="http://www.w3.org/2000/svg" style="height: 16px; width: 8px;"><path d="M7.268 9.547L0 16l4-8-4-8 7.268 6.453C7.715 6.82 8 7.377 8 8c0 .623-.285 1.18-.732 1.547z"></path></svg></span></span></span></div></div></div><div class="SplitBanner__content-media__T7FbHezl"><div class="ImgAnimation__wrapper__1XghLWE8 ImgAnimation__wrapper--dark__3GbCNilP" style="height: 100%;"><div class="ImgAnimation__content__2gXtucl6"><div class="ImgAnimation__inner__3_q4XJuD"><img src="https://cdn.ferrari.com/cms/network/media/img/resize/63638e831b573e645cbb592b-ferrari-past-mode-f50-gate-box-2022-nov-desk-def?width=960&amp;height=650" alt="" title="" data-object-fit="cover" class="Img__image__1RV_fMUN Img__image--absolute__2xQT3Qrw Img__image--cover__2yM8XGZ0"></div></div></div></div></a></div></div></div></div>
+
+{%- endif -%}
+
+ 
+
+<style>
+
+.main-content .videoBackground {
+
+margin-top: -55px;
+
+}
+
+.videoBackground {
+
+position: relative;
+
+}
+
+.videoBackground .fullscreen-video-wrap {
+
+position: absolute;
+
+top: 0;
+
+left: 0;
+
+min-width: 100%;
+
+width: 100%;
+
+height: 100%;
+
+overflow: hidden;
+
+}
+
+.videoBackground .fullscreen-video-wrap .video-js {
+
+position: absolute;
+
+top: 0;
+
+left: 0;
+
+min-height: 100%;
+
+min-width: 100%;
+
+width: 100%;
+
+height: 100%;
+
+object-fit: cover;
+
+}
+
+.videoBackground .fullscreen-video-wrap video {
+
+min-height: 100%;
+
+min-width: 100%;
+
+object-fit: cover;
+
+}
+
+.videoBackground .videoBox {
+
+display: flex;
+
+align-items: center;
+
+justify-content: flex-end;
+
+flex-direction: column;
+
+padding: 100px 20px 80px;
+
+background-size: cover;
+
+background-position: center;
+
+background-repeat: no-repeat;
+
+min-height: 500px;
+
+max-height: 800px;
+
+        height: calc(100vh - 165px);
+
+position: relative;
+
+}
+
+.videoBackground .imageBox {
+
+display: flex;
+
+align-items: center;
+
+justify-content: flex-end;
+
+flex-direction: column;
+
+padding: 100px 20px 80px;
+
+background-size: cover;
+
+background-position: center;
+
+background-repeat: no-repeat;
+
+position: relative;
+
+min-height: calc(100vh - 165px);
+
+height: auto;
+
+}
+
+.videoBackground .videoBoxInfo, .videoBackground .imageBoxInfo {
+
+z-index: 2;
+  
+margin: auto;
+
+text-align: center;
+
+background: rgb(40, 40, 40, 0.7);
+
+padding: 8px 40px 40px 40px;
+
+}
+
+.videoBackground .overlay {
+
+content: "";
+
+position: absolute;
+
+top: 0;
+
+right: 0;
+
+bottom: 0;
+
+left: 0;
+
+background: #000;
+
+z-index: 1;
+
+}
+
+.videoBackground .videoBoxInfoBtn, .videoBackground .imageBoxInfoBtn {
+
+-moz-user-select: none;
+
+-ms-user-select: none;
+
+-webkit-user-select: none;
+
+user-select: none;
+
+-webkit-appearance: none;
+
+-moz-appearance: none;
+
+appearance: none;
+
+display: inline-block;
+
+width: auto;
+
+text-decoration: none;
+
+text-align: center;
+
+vertical-align: middle;
+
+cursor: pointer;
+
+border: 1px solid transparent;
+
+border-radius: 2px;
+
+padding: 10px 30px;
+
+font-style: normal;
+
+font-weight: normal;
+
+letter-spacing: 0.06em;
+
+white-space: normal;
+
+font-size: 16px;
+
+margin-top: 20px;
+
+}
+
+.videoBackground .videoBoxInfoTitle, .videoBackground .imageBoxInfoTitle {
+
+color: #FFF;
+  
+font-size: 45px;
+
+line-height: 40px;
+
+}
+
+.videoBackground .videoBoxInfoDescription, .videoBackground .imageBoxInfoDescription {
+
+max-width: 500px;
+
+margin: 0 auto;
+
+}
+
+.videoBackground .videoBoxInfoDescription p, .videoBackground .imageBoxInfoDescription p {
+  
+font-size: 17px;
+
+line-height: 28px;
+
+}
+
+.videoBackground .placeholderNoblocks {
+
+text-align: center;
+
+max-width: 500px;
+
+margin: 0 auto;
+
+}
+
+    @media screen and (max-width: 767px) {
+
+.main-content .videoBackground {
+
+margin-top: -35px;
+
+}
+
+.videoBackground .fullscreen-video-wrap {
+
+z-index: 3;
+
+}
+
+.videoBackground .videoBox {
+
+min-height: 300px;
+
+height: 100%;
+
+position: relative;
+
+padding: 0;
+
+}
+
+.videoBackground .fullscreen-video-wrap {
+
+position: relative;
+
+min-height: 300px;
+
+z-index: -2;
+
+}
+
+.videoBackground .videoBoxInfo {
+
+padding: 20px -1px;
+
+width: 100%;
+
+}
+
+.videoBoxInfoTitle, .videoBackground .videoBoxInfoBtn {
+display: none;
+
+}
+      
+.videoBackground .videoBoxInfoBtn, .videoBackground .imageBoxInfoBtn {
+
+-moz-user-select: none;
+
+-ms-user-select: none;
+
+-webkit-user-select: none;
+
+user-select: none;
+
+-webkit-appearance: none;
+
+-moz-appearance: none;
+
+appearance: none;
+
+display: inline-block;
+
+width: auto;
+
+text-decoration: none;
+
+text-align: center;
+
+vertical-align: middle;
+
+cursor: pointer;
+
+border: 1px solid transparent;
+
+border-radius: 2px;
+
+padding: 10px 30px;
+
+font-style: normal;
+
+font-weight: normal;
+
+letter-spacing: 0.06em;
+
+white-space: normal;
+
+font-size: 16px;
+
+margin-top: 0px;
+
+}
+    }
+
+</style>
+
+ 
+
+{% schema %}
+
+{
+
+"name": {
+
+"en": "Video Background"
+
+},
+
+"class": "videoBackground",
+
+"max_blocks": 1,
+
+"blocks": [
+
+{
+
+"type": "video",
+
+"name": "Video",
+
+"settings": [
+
+{
+
+"type": "url",
+
+"id": "video_link",
+
+"label": {
+
+"en": "Video link"
+
+}
+
+},
+
+{
+
+"type": "image_picker",
+
+"id": "video_image",
+
+"label": {
+
+"en": "Cover image"
+
+}
+
+},
+
+{
+
+
+"type": "header",
+
+"content": {
+
+"en": "Text"
+
+}
+
+},
+
+{
+
+"type": "text",
+
+"id": "title",
+
+"label": {
+
+"en": "Heading"
+
+},
+
+"default": "Video slide"
+
+},
+
+{
+
+"type": "richtext",
+
+"id": "text",
+
+"label": {
+
+"en": "Description"
+
+},
+
+"default": {
+
+"en": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+
+}
+
+},
+
+{
+
+"type": "color",
+
+"id": "color_text",
+
+"label": {
+
+"en": "Text color"
+
+},
+
+"default": "#ffffff"
+
+},
+
+{
+
+"type": "text",
+
+"id": "button_label",
+
+"label": {
+
+"en": "Button label"
+
+}
+
+},
+
+{
+
+"type": "url",
+
+"id": "button_link",
+
+"label": {
+
+"en": "Button link"
+
+}
+
+},
+
+{
+
+"type": "color",
+
+"id": "color_btn_bg",
+
+"label": {
+
+"en": "Background button color"
+
+},
+
+"default": "#ffffff"
+
+},
+
+{
+
+"type": "color",
+
+"id": "color_btn_text",
+
+"label": {
+
+"en": "Button text color"
+
+},
+
+"default": "#ffffff"
+
+}
+
+]
+
+},
+
+{
+
+"type": "image",
+
+"name": "Image",
+
+"settings": [
+
+{
+
+"type": "color",
+
+"id": "color_bg",
+
+"label": {
+
+"en": "Background color (optional)"
+
+},
+
+"default": "#16165b"
+
+},
+
+{
+
+"type": "image_picker",
+
+"id": "image_bg",
+
+"label": {
+
+"en": "or use an image (required)"
+
+}
+
+},
+
+{
+
+"type": "range",
+
+"id": "overlay_opacity",
+
+"label": {
+
+"en": "Overlay opacity"
+
+},
+
+"min": 0,
+
+"max": 99,
+
+"step": 1,
+
+"unit": {
+
+"en": "%"
+
+},
+
+"default": 0
+
+},
+
+{
+
+"type": "header",
+
+"content": {
+
+"en": "Text"
+
+}
+
+},
+
+{
+
+"type": "text",
+
+"id": "title",
+
+"default": "Image slide",
+
+"label": {
+
+"en": "Heading"
+
+}
+
+},
+
+{
+
+"type": "richtext",
+
+"id": "text",
+
+"label": {
+
+"en": "Description"
+
+},
+
+"default": {
+
+"en": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+
+}
+
+},
+
+{
+
+"type": "color",
+
+"id": "color_text",
+
+"label": {
+
+"en": "Text color"
+
+},
+
+"default": "#000000"
+
+},
+
+{
+
+"type": "text",
+
+"id": "button_label",
+
+"label": {
+
+"en": "Button label"
+
+}
+
+},
+
+{
+
+"type": "url",
+
+"id": "button_link",
+
+"label": {
+
+"en": "Button link"
+
+}
+
+},
+
+{
+
+"type": "color",
+
+"id": "color_btn_bg",
+
+"label": {
+
+"en": "Background button color"
+
+},
+
+"default": "#ffffff"
+
+},
+
+{
+
+"type": "color",
+
+"id": "color_btn_text",
+
+"label": {
+
+"en": "Button text color"
+
+},
+
+"default": "#ffffff"
+
+}
+
+]
+
+}
+
+],
+
+"presets": [
+
+{
+
+"name": {
+
+"en": "Video Background"
+
+},
+
+"category": {
+
+"en": "Main"
+
+},
+
+"blocks": [
+
+{
+
+"type": "video"
+
+}
+
+]
+
+}
+
+]
+
+}
+
+{% endschema %}
